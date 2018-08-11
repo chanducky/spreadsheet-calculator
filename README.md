@@ -1,9 +1,9 @@
 # spreadsheet-calculator
 Spreadsheet Calculator 
 
-Development Envorenment
-1: Programming Language and Version : Oracle JDK Version 1.8.
-2: IDE : Eclipse.
+Development Envorenment<br>
+1: Programming Language and Version : Oracle JDK Version 1.8<br>
+2: IDE : Eclipse.<br>
 
 How to run
 i :  Import project in eclipse and run as Java Application.
