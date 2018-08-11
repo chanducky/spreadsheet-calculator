@@ -13,4 +13,4 @@ How to run
     2 : paste  spreadsheet.txt  input file to src folder 
     3 : run javac *.java 
     4 : Provide input in spreadsheet.txt
-    5 : cat spreadsheet.txt | java Spreadsheet
+    5 : cat spreadsheet.txt | java Spreadsheet 
