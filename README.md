@@ -6,11 +6,10 @@ Development Envorenment
 2: IDE : Eclipse.
 
 How to run
-1 :  Import project in eclipse and run as Java Application.
+i :  Import project in eclipse and run as Java Application.
 
-2: Follow these steps<br>
+ii : Follow these steps<br>
     1 : Go to src folder <br>
-    2 : paste  spreadsheet.txt  input file to src folder <br>
-    3 : run javac *.java <br>
-    4 : Provide input in spreadsheet.txt <br>
-    5 : cat spreadsheet.txt | java Spreadsheet  <br>
+    2 : run javac *.java <br>
+    3 : Provide input in spreadsheet.txt <br>
+    4 : cat spreadsheet.txt | java Spreadsheet  <br>
